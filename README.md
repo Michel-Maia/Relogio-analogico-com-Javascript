@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-Desenvolvido para aprendizado. Realizado Relógio Analógico com JavaScript. 20/10/22
+Desenvolvido para aprendizado. Realizado relógio analógico com JavaScript. 20/10/22
 
 
 [🔗 Clique aqui para acessar] (https://michel-maia.github.io/Relogio-analogico-com-Javascript/)
